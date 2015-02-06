@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.8.5
-Release:    %mkrel 1
+Release:    2
 Summary:    A Ruby library for accessing memcached
 Group:      Development/Ruby
 License:    MIT

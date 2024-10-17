@@ -6,7 +6,7 @@ Release:    2
 Summary:    A Ruby library for accessing memcached
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/mperham/memcache-client
+URL:        https://github.com/mperham/memcache-client
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
